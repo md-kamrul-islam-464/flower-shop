@@ -44,8 +44,8 @@ body{
 
 .home-title{
     color: #272727;
-    font-size: 85px;
-    font-weight: 900;
+    font-size: 80px;
+    font-weight: 800;
     margin-bottom: 0;
     
 }
@@ -146,7 +146,7 @@ main section {
     text-align: center;
     display: flex;
     justify-content: space-around;
-    padding: 0 344px 16px 344px;  
+    padding: 0 344px 16px 364px;  
     margin: 0 auto;
     margin-top: 15px;
     color: #272727;
