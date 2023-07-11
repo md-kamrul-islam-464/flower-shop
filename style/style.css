@@ -1,4 +1,4 @@
-/* common styles shared */
+ /*========== COMMON STYLE SHARE ==========*/
 body{
    font-family: 'Lato', sans-serif;
 }
@@ -20,8 +20,7 @@ body{
    color: #E55473;
 }
 
-
-/* home section style  */
+ /*========== HOME ==========*/
 
 .home{
     background: rgba(229, 84, 115, 0.10);
@@ -62,7 +61,7 @@ body{
 }
 
 
-/* main section style  */
+ /*========== MAIN ==========*/
 
 main{
     max-width: 100%;
@@ -169,7 +168,7 @@ main section {
 }
 
 
-/* icon section style  */
+ /*========== ICON SECTION ==========*/
 main section .icon{
     width: 1440px;
     height: 320px; 
@@ -206,7 +205,8 @@ main section .icon{
     margin: 0;
 }
 
-/* hot deal section style  */
+
+ /*========== HOT DEAL SECTION ==========*/
 
 .deal{
     border-radius: 8px;
@@ -257,7 +257,7 @@ main section .icon{
 }
 
 
-/* instagram container style  */
+ /*========== INSTAGRAM SECTION ==========*/
 
 .instagram-container{
     text-align: center;
@@ -295,9 +295,7 @@ main section .icon{
     border-radius: 10px;
 }
 
-
-/* Get the latest deals section style  */
-
+ /*========== LET THE LATEST DEAL ==========*/
 
 .instagram-bg-section{
     padding: 200px;
@@ -372,7 +370,8 @@ main section .icon{
     
 }
 
-/* footer section style  */
+
+ /*========== FOOTER ==========*/
 
 .footer{
     background: #111010;
